@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tap Tap</string>
+    <string name="gameTitle">Tap Tap</string>
+    <string name="startButton">Start</string>
+    <string name="tag">GL2022</string>
+    <string name="difficulty_string">difficulty</string>
+    <string name="tap">TAP</string>
+    <string name="you_lost">you lost!</string>
+    <string name="win">YOU WON!</string>
+    <string name="play_again">play again</string>
+    <string name="retry">RETRY</string>
+    <string name="tap_tap">tap tap</string>
+    <string name="sign">tap as fast as you can</string>
+    <string-array name="difficulty">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>
